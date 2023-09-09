@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I’m currently attending Tech Elevator's Java Blue Course
 
 <!--
 **Maxjb123/Maxjb123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
